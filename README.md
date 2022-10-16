@@ -5,14 +5,15 @@ This project is make by team of 4 people in order to acquainted with using NUnit
 
 ### Set up:
 Create new console app:
-![create-console-app]()
+![create-console-app](https://github.com/ttdat2232/car-management/blob/main/srceenshot/set-up/create-console-app.png)
 
 Add new two libraries class:
-![create-library-app]()
-![create-library-app]()
+![create-class-library](https://github.com/ttdat2232/car-management/blob/main/srceenshot/set-up/create-class-library.png)
+![create-class-library](https://github.com/ttdat2232/car-management/blob/main/srceenshot/set-up/create-library-class.png)
 
 Add new NUnit test project:
-![nunit-test-project]()
+![nunit-test-project](https://github.com/ttdat2232/car-management/blob/main/srceenshot/set-up/create-NUnit-test-project.png)
+![nunit-test-project](https://github.com/ttdat2232/car-management/blob/main/srceenshot/set-up/create-nunit-class.png)
 
 ### Implements:
 
