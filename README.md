@@ -27,6 +27,10 @@ This is some code in RespositoryTest.cs:
 Testing result:
 ![test-result](https://github.com/ttdat2232/car-management/blob/main/srceenshot/result/result.png)
 
-#### Explanation: 
+### Explanation: 
+1. \[Test\] attribute is used for marking method as a test. It can use for both non-parameterized test and parameterized which no causes any extra test case.
+2. \[TestCase\] attribute can be used for providing parameters for a test method whenever it is invoked.
+
+3. > \[TestCaseSource\] is used on a parameterized test method to identify the source from which the required arguments will be provided.
 
 
