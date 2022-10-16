@@ -18,14 +18,14 @@ Add new NUnit test project:
 ### Implements:
 
 This is some functions are going to be tested:
-![tested-code]()
+![tested-code](https://github.com/ttdat2232/car-management/blob/main/srceenshot/project/code-in-repository.png)
 
 This is some code in RespositoryTest.cs:
-![test-code]()
+![test-code](https://github.com/ttdat2232/car-management/blob/main/srceenshot/project/test-code.png)
 
 ### Result:
 Testing result:
-![test-result]()
+![test-result](https://github.com/ttdat2232/car-management/blob/main/srceenshot/result/result.png)
 
 #### Explanation: 
 
