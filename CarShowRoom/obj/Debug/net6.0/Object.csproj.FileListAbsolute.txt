@@ -1,0 +1,12 @@
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\bin\Debug\net6.0\Object.deps.json
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\bin\Debug\net6.0\Object.dll
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\bin\Debug\net6.0\Object.pdb
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\obj\Debug\net6.0\Object.csproj.AssemblyReference.cache
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\obj\Debug\net6.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\obj\Debug\net6.0\Object.AssemblyInfoInputs.cache
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\obj\Debug\net6.0\Object.AssemblyInfo.cs
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\obj\Debug\net6.0\Object.csproj.CoreCompileInputs.cache
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\obj\Debug\net6.0\Object.dll
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\obj\Debug\net6.0\refint\Object.dll
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\obj\Debug\net6.0\Object.pdb
+D:\FPT\PRN211\LearnTestting\CarShowRoom\CarShowRoom\obj\Debug\net6.0\ref\Object.dll

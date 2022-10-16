@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarManagement\\CarManagement.csproj": {}
+  },
+  "projects": {
+    "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarManagement\\CarManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarManagement\\CarManagement.csproj",
+        "projectName": "CarManagement",
+        "projectPath": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarManagement\\CarManagement.csproj",
+        "packagesPath": "C:\\Users\\dd220\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dd220\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarShowRoom\\Object.csproj": {
+                "projectPath": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarShowRoom\\Object.csproj"
+              },
+              "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarShowRoom\\Object.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarShowRoom\\Object.csproj",
+        "projectName": "Object",
+        "projectPath": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarShowRoom\\Object.csproj",
+        "packagesPath": "C:\\Users\\dd220\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarShowRoom\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dd220\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\dd220\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dd220\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarShowRoom\\Object.csproj": {
+                "projectPath": "D:\\FPT\\PRN211\\LearnTestting\\CarShowRoom\\CarShowRoom\\Object.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
