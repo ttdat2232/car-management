@@ -28,9 +28,12 @@ Testing result:
 ![test-result](https://github.com/ttdat2232/car-management/blob/main/srceenshot/result/result.png)
 
 ### Explanation: 
-1. \[Test\] attribute is used for marking method as a test. It can use for both non-parameterized test and parameterized which no causes any extra test case.
-2. \[TestCase\] attribute can be used for providing parameters for a test method whenever it is invoked.
+1. \[SetUp\] attribute provides a set of functions that are performed just before each test method is invoked.
+2. \[Test\] attribute is used for marking method as a test. It can use for both non-parameterized test and parameterized which no causes any extra test case.
+3. \[TestCase\] attribute can be used for providing parameters for a test method whenever it is invoked.
 
-3. > \[TestCaseSource\] is used on a parameterized test method to identify the source from which the required arguments will be provided.
+4. > \[TestCaseSource\] is used on a parameterized test method to identify the source from which the
+   > required arguments will be provided.
 
 
+### You can also learn more NUnit Framework at [https://docs.nunit.org/](https://docs.nunit.org/)
