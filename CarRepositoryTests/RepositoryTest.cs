@@ -5,7 +5,7 @@ using System.Diagnostics;
 
 namespace CarRepositoryTests
 {
-    
+
     [TestFixture]
     public class RepositoryTest
     {

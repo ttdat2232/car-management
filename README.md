@@ -1,7 +1,7 @@
 # Simple Car Management
 
 ## About this project:
-This project is make by team of 4 people in order to acquainted with using NUnit Framework. 
+This project is make by team of 4 people in order to acquainted with using NUnit Framework and sharing some knowledge.
 
 ### Set up:
 Create new console app:
