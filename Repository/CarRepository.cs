@@ -96,6 +96,7 @@ namespace Repository
                         car.Price = reader.GetDecimal("Price");
                     }
                 }
+                return car;
             }
             catch (Exception ex)
             {
@@ -105,7 +106,8 @@ namespace Repository
             {
                 connection.Close();    
             }
-            return car;
+            return null;
+
         }
 
         public void UpdateCarName(Car updateCar)
