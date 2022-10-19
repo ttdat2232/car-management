@@ -110,7 +110,7 @@ namespace CarRepositoryTests
         [Test]
         public void Test_08_WrongCaseForCI()
         {
-            Assert.That(1 == 2);
+            Assert.That(1 == 1);
         }
     }
 }
