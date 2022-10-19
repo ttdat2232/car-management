@@ -10,6 +10,7 @@ namespace CarRepositoryTests
     public class RepositoryTest
     {
         private CarRepository carRepository;
+        private Car testCar;
 
         private static object[] GetCars { get; } =
         {
@@ -35,6 +36,7 @@ namespace CarRepositoryTests
         {
             carRepository = CarRepository.Instance;
             i++;
+            testCar = new Car("C200", "A4", "Audi", 2000000000);
         }
 
         [Test]
@@ -91,6 +93,24 @@ namespace CarRepositoryTests
             car.Code = code;
             carRepository.DeleteCar(car);
             Assert.That(carRepository.GetCarByCode(car.Code).Name == null);
+        }
+
+        [Test]
+        public void Test_07_InsertFunction()
+        {
+            carRepository.InserCar(testCar);
+            Assert.That(carRepository.GetCarByCode(testCar.Code).Name, Is.EqualTo(testCar.Name));
+        }
+
+        [TearDown]
+        public void TearDown()
+        {
+            carRepository.DeleteCar(testCar);
+        }
+        [Test]
+        public void Test_08_WrongCaseForCI()
+        {
+            Assert.That(1 == 2);
         }
     }
 }
