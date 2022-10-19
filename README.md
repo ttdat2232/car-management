@@ -1,3 +1,5 @@
+[![.NET](https://github.com/ttdat2232/car-management/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ttdat2232/car-management/actions/workflows/dotnet.yml)
+
 # Simple Car Management
 
 ## About this project:
