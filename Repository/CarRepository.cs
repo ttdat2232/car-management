@@ -6,8 +6,8 @@ namespace Repository
 {
     public class CarRepository
     {
-        //private const string ConnectionString = "workstation id=car-management.mssql.somee.com;packet size=4096;user id=ttiendat_SQLLogin_1;pwd=dmm1pmktuj;data source=car-management.mssql.somee.com;persist security info=False;initial catalog=car-management;Encrypt=true;TrustServerCertificate=true";
-        private const string ConnectionString = "Server=(local);uid=sa;password=12345;database=MyCarStore;TrustServerCertificate=true;Encrypt=true";
+        private const string ConnectionString = "workstation id=car-management.mssql.somee.com;packet size=4096;user id=ttiendat_SQLLogin_1;pwd=dmm1pmktuj;data source=car-management.mssql.somee.com;persist security info=False;initial catalog=car-management;Encrypt=true;TrustServerCertificate=true";
+        //private const string ConnectionString = "Server=(local);uid=sa;password=12345;database=MyCarStore;TrustServerCertificate=true;Encrypt=true";
         SqlConnection connection = new SqlConnection(ConnectionString);
         private List<Car> cars;
         private CarRepository() {
